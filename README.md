@@ -44,13 +44,17 @@ This consolidated dataset forms the basis for analyzing fee trends, student rete
 
 ### Key Insights Found
 
-Strategic discounts such as early payment incentives and need-based concessions have helped reduce the financial burden on parents and encouraged timely payments, positively impacting overall fee collection.
-Top-performing sections show strong fee payment percentages, likely due to effective teacher follow-up, while lower collections in classes like Nursery, 8, 9, and 10 may be linked to trial admissions or higher fee burdens.
+-Strategic discounts such as early payment incentives and need-based concessions have helped reduce the financial burden on parents and encouraged timely payments, positively impacting overall fee collection.
+-Top-performing sections show strong fee payment percentages, likely due to effective teacher follow-up, while lower collections in classes like Nursery, 8, 9, and 10 may be linked to trial admissions or higher fee burdens.
 
 ### Demographic Analysis
 
 <img width="818" height="682" alt="image" src="https://github.com/user-attachments/assets/edcfb83b-f518-44f4-b2a6-25754dfb298e" />
 <img width="822" height="322" alt="image" src="https://github.com/user-attachments/assets/e1eeb270-a4bc-4b48-b379-35ab9408fdbd" />
+
+### Key Insights Found
+
+
 
 
 
