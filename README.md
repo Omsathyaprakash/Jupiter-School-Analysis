@@ -37,8 +37,10 @@ This consolidated dataset forms the basis for analyzing fee trends, student rete
 
 ---
 ## 📊 Dashboards Overview
-<img width="791" height="542" alt="image" src="https://github.com/user-attachments/assets/bc4f89bf-5fd4-45ac-b81c-f7cfcbfc3434" />
-<img width="790" height="722" alt="image" src="https://github.com/user-attachments/assets/af471af6-dd06-476d-9686-bc578b5e48fa" />
+<img width="1038" height="712" alt="image" src="https://github.com/user-attachments/assets/bcc9a7d4-1a28-4bd0-be47-a42b465b81d8" />
+<img width="802" height="727" alt="image" src="https://github.com/user-attachments/assets/8f3e57fa-df07-4fa0-9e74-28efec599e05" />
+
+
 
 
 ## 🛠️ Tools Used
