@@ -1,6 +1,6 @@
 # Jupiter-School-Analysis
-
-Welcome to the data-driven analysis of Jupiter High School, a rural educational institution located in Julapalli Mandal, Peddapalli District, Telangana. This project presents a comprehensive overview of the school's academic performance, fee recovery, student retention, and demographic trends over a span of three academic years (2022–2025).
+## Project Overview
+Welcome to the data-driven analysis of Jupiter High School, a rural educational institution located in Julapalli Mandal, Peddapalli District, Telangana. This project presents a comprehensive overview of the school's academic performance, fee recovery, student retention, and demographic trends over a period of three academic years (2022–2025).
 
 ---
 ## Objectives
