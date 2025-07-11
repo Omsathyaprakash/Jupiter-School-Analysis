@@ -38,9 +38,12 @@ This consolidated dataset forms the basis for analyzing fee trends, student rete
 ---
 ## 📊 Dashboards Overview
 ### Fee Analysis
+
 <img width="813" height="557" alt="image" src="https://github.com/user-attachments/assets/5a3a7c48-bd07-4bb9-9f7e-410a61af964d" />
 <img width="815" height="727" alt="image" src="https://github.com/user-attachments/assets/7f22efc0-fb6c-4fac-96bd-603527f0b3d2" />
+
 ### Demographic Analysis
+
 <img width="818" height="682" alt="image" src="https://github.com/user-attachments/assets/edcfb83b-f518-44f4-b2a6-25754dfb298e" />
 <img width="806" height="323" alt="image" src="https://github.com/user-attachments/assets/47662a87-2160-40cd-8696-784d44200c9b" />
 
