@@ -8,6 +8,7 @@ This data-driven project analyzes Jupiter High School, a rural institution in Ju
 
 Jupiter High School, based in Julapalli village, faces challenges in student retention, fee collection, and uneven enrollment growth.This project analyzes demographic and financial trends from the past three academic years to uncover patterns and gaps.The goal is to provide actionable insights to improve retention, optimize fee recovery, and support balanced growth across villages and sections.
 
+---
 ## Objectives
 
 ### Analyze Fee Recovery and Revenue Trends
@@ -27,3 +28,17 @@ Jupiter High School, based in Julapalli village, faces challenges in student ret
 - Analyze gender-wise enrollment trends
 - Examine village-wise student growth (excluding 10th class)
 - Track class-wise retention patterns year-over-year
+
+---
+## Dataset Provided
+The dataset comprises fee records from three academic years (2022–2025) of Jupiter High School, Julapalli.
+Data was cleaned, transformed, and merged into a single Excel file using Power Query and Excel functions.
+This consolidated dataset forms the basis for analyzing fee trends, student retention, and village-wise growth.
+
+---
+## 🛠️ Tools Used
+
+- **Power BI** – Data modeling and visualization  
+- **Microsoft Excel** – Data cleaning and consolidation  
+- **Power Query** – Data transformation  
+- **GitHub** – Version control and sharing
