@@ -5,23 +5,20 @@ Welcome to the data-driven analysis of Jupiter High School, a rural educational 
 ---
 ## Objectives
 
-1. Analyze Fee Recovery and Revenue Trends
-Evaluate expected vs. recovered revenue across academic years
+### Analyze Fee Recovery and Revenue Trends
 
-Understand the distribution and impact of discounts and concessions
+-Track expected vs recovered revenue
+-Understand discount and concession patterns
+-Assess the impact of payment trends on overall growth
 
-Assess how fee payment trends have influenced overall revenue growth
+### Evaluate Financial Efficiency by Group
 
-2. Evaluate Financial Efficiency by Group
-Compare fee collection efficiency across villages and class sections
+-Compare fee collection efficiency across villages and sections
+-Study internal family concessions
+-Monitor dues vs no-dues status over the years
 
-Analyze fee concessions provided to internal families (e.g., staff, founders)
+### Explore Student Demographics and Retention
 
-Monitor the yearly proportion of students with dues vs. those fully paid
-
-3. Explore Student Demographics and Retention
-Study gender-wise enrollment distribution and trends over time
-
-Examine village-wise student growth patterns (excluding Class 10)
-
-Track class-wise student retention across academic years
+-Analyze gender-wise enrollment trends
+-Examine village-wise student growth (excluding 10th class)
+-Track class-wise retention patterns year-over-year
