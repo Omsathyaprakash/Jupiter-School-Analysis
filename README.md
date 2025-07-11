@@ -36,6 +36,11 @@ Data was cleaned, transformed, and merged into a single Excel file using Power Q
 This consolidated dataset forms the basis for analyzing fee trends, student retention, and village-wise growth.
 
 ---
+## 📊 Dashboards Overview
+<img width="791" height="542" alt="image" src="https://github.com/user-attachments/assets/bc4f89bf-5fd4-45ac-b81c-f7cfcbfc3434" />
+<img width="790" height="722" alt="image" src="https://github.com/user-attachments/assets/af471af6-dd06-476d-9686-bc578b5e48fa" />
+
+
 ## 🛠️ Tools Used
 
 - **Power BI** – Data modeling and visualization  
