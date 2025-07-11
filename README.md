@@ -7,18 +7,18 @@ Welcome to the data-driven analysis of Jupiter High School, a rural educational 
 
 ### Analyze Fee Recovery and Revenue Trends
 
--Track expected vs recovered revenue
--Understand discount and concession patterns
--Assess the impact of payment trends on overall growth
+- Track expected vs recovered revenue
+- Understand discount and concession patterns
+- Assess the impact of payment trends on overall growth
 
 ### Evaluate Financial Efficiency by Group
 
--Compare fee collection efficiency across villages and sections
--Study internal family concessions
--Monitor dues vs no-dues status over the years
+- Compare fee collection efficiency across villages and sections
+- Study internal family concessions
+- Monitor dues vs no-dues status over the years
 
 ### Explore Student Demographics and Retention
 
--Analyze gender-wise enrollment trends
--Examine village-wise student growth (excluding 10th class)
--Track class-wise retention patterns year-over-year
+- Analyze gender-wise enrollment trends
+- Examine village-wise student growth (excluding 10th class)
+- Track class-wise retention patterns year-over-year
