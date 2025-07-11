@@ -45,7 +45,8 @@ This consolidated dataset forms the basis for analyzing fee trends, student rete
 ### Demographic Analysis
 
 <img width="818" height="682" alt="image" src="https://github.com/user-attachments/assets/edcfb83b-f518-44f4-b2a6-25754dfb298e" />
-<img width="806" height="323" alt="image" src="https://github.com/user-attachments/assets/47662a87-2160-40cd-8696-784d44200c9b" />
+<img width="822" height="322" alt="image" src="https://github.com/user-attachments/assets/e1eeb270-a4bc-4b48-b379-35ab9408fdbd" />
+
 
 
 
