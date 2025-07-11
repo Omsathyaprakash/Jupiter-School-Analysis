@@ -4,6 +4,10 @@
 This data-driven project analyzes Jupiter High School, a rural institution in Julapalli Mandal, Peddapalli District, Telangana.It offers a comprehensive overview of the school’s academic performance, fee recovery, student retention, and demographic trends across three academic years (2022–2025).
 
 ---
+## Problem Statement
+
+Jupiter High School, based in Julapalli village, faces challenges in student retention, fee collection, and uneven enrollment growth.This project analyzes demographic and financial trends from the past three academic years to uncover patterns and gaps.The goal is to provide actionable insights to improve retention, optimize fee recovery, and support balanced growth across villages and sections.
+
 ## Objectives
 
 ### Analyze Fee Recovery and Revenue Trends
